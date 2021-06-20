@@ -5,7 +5,7 @@
 
 - Comprehensively **explored and visualized** the data, followed up by predicting the target variable with **accuracy of 0.73**.
 - **Engineered thousands of missing values** based on the expected probability distribution of the feature.
-- Implemented Classification Histogram Gradient Boosting, Linear Regression, and Random Forest algorithms, extracted **feature importance and performed feature selection**.
+- Implemented Classification Histogram Gradient Boosting, Logistic Regression, and Random Forest algorithms, extracted **feature importance and performed feature selection**.
 - My findings might have a **huge impact on the average time and money cost of new employees** if implemented correctly into the recruiting system of a company in DS field.
 - In the future, the binary target variable may be switched for the continuous number of training hours, enabling me to try regression algorithms.
 - Also, a **clustering analysis** may be performed onto the recruits, giving us even more precious insight into the fundamentals. This would also improve the data engineering.
