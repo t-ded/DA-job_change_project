@@ -1,4 +1,4 @@
-# [Analysis of more than 19 thousand recruits for a Data Science company - Classification task - Project Overview:](https://t-ded.github.io/t-ded-portfolio/projects/project-2/)
+# [Analysis of more than 19 thousand recruits for a Data Science company - Classification task - Project Overview:](https://t-ded.github.io/t-ded-portfolio/projects/job-change-of-data-scientists/)
 
 
 ## Project Summary
