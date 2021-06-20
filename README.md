@@ -13,7 +13,7 @@
 ## Project Background
 
 - This dataset has been chosen as it revolves around a field I see my future in and the results may present a meaningful opportunity of application in practice
-- The [initial dataset](https://www.kaggle.com/arashnic/hr-analytics-job-change-of-data-scientists?fbclid=IwAR2jKFzfv2xK7Uj8FQfnSHEicbpMFl0yAJHRLBRZfq98Xcy2dEz9W2bZAy8) consists of 19 158 reviews and 14 features, one of them being the reviewer score which is the dependent variable. The test set then includes another 2 129 entries to be predicted.
+- The [initial dataset](https://www.kaggle.com/arashnic/hr-analytics-job-change-of-data-scientists?fbclid=IwAR2jKFzfv2xK7Uj8FQfnSHEicbpMFl0yAJHRLBRZfq98Xcy2dEz9W2bZAy8) consists of 19 158 reviews and 14 features, one of them being the dependent variable which tells us, whether or not the person is going to change their job and pursue career in the data science company. The test set then includes another 2 129 entries to be predicted.
 - For this project, EDA, visualisation and data interpretation have been given priority over algorithms as it seemed to me that for this particular dataset, it would be much easier to actually implement the results in the form of graphs, charts and plots into business, rather than estimator predictions and their coefficients.
 
 ## Project Outline
